@@ -1,4 +1,4 @@
-39  - Combination Sum
+39  - Combination Sum Problem
 
 Difficulty - Medium
 
@@ -27,7 +27,6 @@ Example 3:
 Input: candidates = [2], target = 1
 Output: []
  
-
 Constraints:
 
 1 <= candidates.length <= 30
